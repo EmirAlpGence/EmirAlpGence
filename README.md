@@ -12,6 +12,8 @@ Image processing with OpenCV, Pillow/PIL Library.
 I am an experienced 3D/CAD/CAM modeler using a variety of tools such as Blender, 3D Experience, Creo, Solidworks, Catia, AutoCAD, FreeCAD, etc.
 I'm also interested in game design with Unity and Unreal and also developing an indie game. You can find my projects in my portfolio.
 
+(I am not using this Github profile for work related projects, since FZI has it's own private GitLab server - This repository is only for illustration and personal projects)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Kurze Informationen über mich
@@ -28,6 +30,8 @@ Bildverarbeitung mit OpenCV, Pillow/PIL Library.
 Ich bin ein erfahrener 3D/CAD/CAM-Modellierer mit einer Vielzahl von Tools wie Blender, 3D Experience, Creo, Solidworks, Catia, AutoCAD, FreeCAD usw. 
 Ich interessiere mich auch für Spieledesign mit Unity und Unreal und auch für die Entwicklung eines Indie-Spiels. Meine Projekte finden Sie in meinem Portfolio.
 
+(Ich verwende dieses Github-Profil nicht für arbeitsbezogene Projekte, da FZI über einen eigenen privaten GitLab-Server verfügt. Dieses Repository dient nur zur Veranschaulichung und für persönliche Projekte.)
+​
 <!---
 EmirAlpGence/EmirAlpGence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
